@@ -1,0 +1,58 @@
+<%#
+<body>
+  <nav>
+    <ul class="nav-links">
+        <a href="#contactrow">Home</a>
+        <a href="#">Besoin</a>
+        <a href="#">qui suis-je ?</a>
+        <a href="#contactrow">Contact</a>
+      </ul>
+    </div>
+  </nav>
+  <section class="home"></section>
+
+
+  <script>
+  let nav = document.querySelector("nav-links");
+    window.onscroll = function() {
+      if(document.documentElement.scrollTop > 20){
+        nav.classList.add("sticky");
+      }else {
+        nav.classList.remove("sticky");
+      }
+    }
+  </script>
+
+</body>
+</html> %>
+
+<html>
+<head>
+
+</head>
+<body>
+
+<div  id="navbar">
+  <li><a href="#Home" class ="active"> Accueil </a> </li>
+  <li><a href="#link-container-need"> Services </a></li>
+  <li><a href="#contactrow"> Contact </a></li>
+  <li><a href="#about">TFD</a></li>
+
+</div>
+
+
+
+<script>
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-90px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
+
+</body>

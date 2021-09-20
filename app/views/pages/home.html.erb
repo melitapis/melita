@@ -1,0 +1,88 @@
+
+
+<!-- tsParticles container -->
+<web-particles id="tsparticles" options='{"fps_limit":60,"interactivity":{"detectsOn":"canvas","events":{"onClick":{"enable":true,"mode":"push"},"onHover":{"enable":true,"mode":"repulse"},"resize":true},"modes":{"push":{"particles_nb":4},"repulse":{"distance":200,"duration":0.4}}},"particles":{"color":{"value":"#ffffff"},"links":{"color":"#ffffff","distance":150,"enable":true,"opacity":0.4,"width":1},"move":{"bounce":false,"direction":"none","enable":true,"outMode":"out","random":false,"speed":2,"straight":false},"number":{"density":{"enable":true,"area":800},"value":80},"opacity":{"value":0.5},"shape":{"type":"circle"},"size":{"random":true,"value":5}},"detectRetina":true}'></web-particles>
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@1.28.0/dist/tsparticles.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.5.0/custom-elements-es5-adapter.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.5.0/webcomponents-loader.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/web-particles@1.1.0/dist/web-particles.min.js"></script>
+<!-- https://github.com/matteobruni/tsparticles -->
+<%# <div class="github">
+  <a class="btn btn-link" href="https://github.com/matteobruni/tsparticles" title="Find more info on GitHub">
+    <span id="gh-project">tsParticles</span>
+  </a>
+  <div> %>
+
+<!-- -->
+
+<div class="container">
+
+  <div class=" row justify-content-center col-12  ">
+    <div class="container-home" id="Home">
+
+      <div><h2>Bonjour, Je suis<span> Thibault Fitte-Duval</span></h2>
+            <h2> Je suis Web Developper </h2>
+
+              <div class="container-btn ">
+                 <a href="#link-container-need" id="neon-button-text"><span>En savoir plus</span></a>
+               </div>
+
+               <span class="hero__scroll">
+              <i class="chevron bottom"></i>
+            	</span>
+        </div>
+     </div>
+    <%# II/part besoins cards %>
+
+    <div class=" container-need " id="link-container-need" >
+
+      <div class="box">
+        <span></span>
+        <div class="content">
+          <p>Vous cherchez à augmenter  la visibilité de votre commerce </p>
+          <a href="#contactrow"> me contacter</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <span></span>
+        <div class="content">
+          <p>Vous cherchez à valoriser votre positionnement d’expert et diffuser votre message auprès d’un public intéressé et engagé </p>
+          <a href="#contactrow"> me contacter</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <span></span>
+        <div class="content">
+          <p>Vous cherchez à concretiser de manière digitale vos projets</p>
+          <a href="#contactrow"> me contacter</a>
+        </div>
+      </div>
+    </div>
+
+      <%# III/part about %>
+
+    <div class="card-text-about" id="about" >
+    <%# center-justify col-12 %>
+
+          <div class="card-image">
+             <%= image_tag "tfd.jpg", class: "me-img" %>
+          </div>
+
+          <div class="card-body">
+            <div class="aboutme">
+              <h2> Qui suis-je ? </h2>
+            </div>
+            <div class="Fullstak">
+              <p>Je suis developper Fullstakc. je suis passionné par les effets UI, l'animation et la création d'experience utilisateurs intuitives et dynamiques</p>
+            </div>
+            <div class="btn-read-more">
+            <a href="" id="neon-button-text"><span>Créons une experience</span></a>
+            </div>
+          </div>
+      </div>
+
+
+  </div>
+</div>
