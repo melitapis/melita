@@ -24,13 +24,13 @@ Multi-casquette, vous chercher a valoriser votre positionnement et diffuser votr
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
 
   </head>
+  <header> <%= render 'pages/navbar'%></header>
   <body>
-    <header> <%= render 'pages/navbar'%></header>
-      <div class="main-container">
+    <div>
+      <%# <div class="main-container"> %>
         <%= yield %>
       </div>
-      <%= render 'pages/contact'%>
-      <footer>  <%= render 'pages/footer'%></footer>
-  </body>
 
+  </body>
+<footer>  <%= render 'pages/footer'%></footer>
 </html>
