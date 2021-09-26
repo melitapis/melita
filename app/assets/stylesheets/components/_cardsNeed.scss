@@ -225,12 +225,14 @@ opacity: 1;
 
 @media(max-width: 992px) {
   .container-need {
-    grid-template-columns:  1fr;
+    display: grid;
+    grid-template-columns:  1fr ;
   }
 }
 
 @media(max-width: 768px) {
   .container-need {
+    display: grid;
     grid-template-columns: 1fr;
   }
 }

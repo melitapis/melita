@@ -1,40 +1,37 @@
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
+<body>
 
-<div class="navbar navbar-expand-sm navbar-light navbar-lewagon">
-  <a class="navbar-brand" href="#">
-    <%# <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" /> %>
-</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <%# <span class="navbar-toggler-icon"></span> %>
-  </button>
-
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <%# <a class="nav-link" href="#Home">Home</a>
-        <% link_to "Home", root_path %>
-        <a class="nav-item active mx-5">
-          <%= link_to "Home", "/", class: "nav-link" %>
-
-        </a>
-      </li>
-      <li class="nav-item">
-      <a class="nav-item active mx-5">
-      <%= link_to "Portfolio", projets_path, class: "nav-link" %>
-
-        </a>
-      </li>
-
-      <li class="nav-item dropdown">
-        <%# <img class="avatar dropdown-toggle" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" /> %>
-        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-        </div>
-      </li>
-    </ul>
+<div class="topnav" id="myTopnav">
+  <a><%= link_to "Home", "/", class: "nav-link" %></a>
+  <a ><%= link_to "Portfolio", projets_path, class: "nav-link" %></a>
+  <div class="dropdown " >
+    <%# <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button> %>
+    <%# <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div> %>
   </div>
+  <%# <a href="#about">About</a> %>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
+
+</body>
+</html>
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>

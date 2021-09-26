@@ -10,72 +10,75 @@
 
 <div class="container">
 
-  <div class=" row justify-content-center col-12  ">
-    <div class="container-home" id="Home">
+    <div class=" row justify-content-center col-12 col-6 ">
+      <div class="container-home" id="Home">
 
-      <div><h2>Bonjour, Je suis<span> Thibault Fitte-Duval</span></h2>
-            <h2> Je suis Web Developper </h2>
+        <div><h2>Bonjour, Je suis<span> Thibault Fitte-Duval</span></h2>
+              <h2> Je suis Web Developper </h2>
 
-              <div class="container-btn ">
-                 <a href="#link-container-need" id="neon-button-text"><span>En savoir plus</span></a>
-               </div>
+                <div class="container-btn ">
+                  <a href="#link-container-need" id="neon-button-text"><span>En savoir plus</span></a>
+                </div>
 
-               <span class="hero__scroll">
-              <i class="chevron bottom"></i>
-            	</span>
+                <span class="hero__scroll">
+                <i class="chevron bottom"></i>
+                </span>
+          </div>
+      </div>
+      <%# II/part besoins cards %>
+
+    <div class=" container-need   " id="link-container-need" >
+      <%# <div class=" row justify-content-center col-sm-6 "> %>
+        <div class="box">
+          <span></span>
+          <div class="content">
+            <p>Vous cherchez à augmenter  la visibilité de votre commerce </p>
+            <a href="#contactrow"> me contacter</a>
+          </div>
         </div>
+
+        <div class="box">
+          <span></span>
+          <div class="content">
+            <p>Vous cherchez à valoriser votre positionnement d’expert et diffuser votre message auprès d’un public intéressé et engagé </p>
+            <a href="#contactrow"> me contacter</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <span></span>
+          <div class="content">
+            <p>Vous cherchez à concretiser de manière digitale vos projets</p>
+            <a href="#contactrow"> me contacter</a>
+          </div>
+        </div>
+       </div>
      </div>
-    <%# II/part besoins cards %>
 
-    <div class=" container-need " id="link-container-need" >
+        <%# III/part about %>
 
-      <div class="box">
-        <span></span>
-        <div class="content">
-          <p>Vous cherchez à augmenter  la visibilité de votre commerce </p>
-          <a href="#contactrow"> me contacter</a>
+      <div class="card-text-about " id="about" >
+       <div class=" row justify-content-center col-12 col-6 ">
+         <%# center-justify col-12 %>
+
+            <div class="card-image">
+              <%= image_tag "tfd.jpg", class: "me-img" %>
+            </div>
+
+            <div class="card-body">
+              <div class="aboutme">
+                <h2> Qui suis-je ? </h2>
+              </div>
+              <div class="Fullstak">
+                <p>Je suis developper Fullstakc. je suis passionné par les effets UI, l'animation et la création d'experience utilisateurs intuitives et dynamiques</p>
+              </div>
+              <div class="btn-read-more">
+              <a href="" id="neon-button-text"><span>Créons une experience</span></a>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
 
-      <div class="box">
-        <span></span>
-        <div class="content">
-          <p>Vous cherchez à valoriser votre positionnement d’expert et diffuser votre message auprès d’un public intéressé et engagé </p>
-          <a href="#contactrow"> me contacter</a>
-        </div>
-      </div>
-
-      <div class="box">
-        <span></span>
-        <div class="content">
-          <p>Vous cherchez à concretiser de manière digitale vos projets</p>
-          <a href="#contactrow"> me contacter</a>
-        </div>
-      </div>
     </div>
-
-      <%# III/part about %>
-
-    <div class="card-text-about" id="about" >
-    <%# center-justify col-12 %>
-
-          <div class="card-image">
-             <%= image_tag "tfd.jpg", class: "me-img" %>
-          </div>
-
-          <div class="card-body">
-            <div class="aboutme">
-              <h2> Qui suis-je ? </h2>
-            </div>
-            <div class="Fullstak">
-              <p>Je suis developper Fullstakc. je suis passionné par les effets UI, l'animation et la création d'experience utilisateurs intuitives et dynamiques</p>
-            </div>
-            <div class="btn-read-more">
-            <a href="" id="neon-button-text"><span>Créons une experience</span></a>
-            </div>
-          </div>
-      </div>
-
+    <%= render 'pages/contact'%>
   </div>
-  <%= render 'pages/contact'%>
-</div>

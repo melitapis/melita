@@ -13996,3 +13996,1086 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 79ms (Views: 75.1ms | ActiveRecord: 0.0ms | Allocations: 9134)
 
 
+Started GET "/" for ::1 at 2021-09-24 14:20:44 +0200
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 184)
+  Rendered pages/home.html.erb within layouts/application (Duration: 481.9ms | Allocations: 29091)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.8ms | Allocations: 319)
+  Rendered pages/_footer.html.erb (Duration: 1.6ms | Allocations: 199)
+Completed 200 OK in 580ms (Views: 567.8ms | ActiveRecord: 0.0ms | Allocations: 39757)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:24:48 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 19.6ms | Allocations: 1178)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.5ms | Allocations: 274)
+  Rendered pages/_footer.html.erb (Duration: 2.0ms | Allocations: 196)
+Completed 200 OK in 224ms (Views: 213.6ms | ActiveRecord: 0.0ms | Allocations: 10880)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:25:36 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 11.0ms | Allocations: 1175)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.7ms | Allocations: 256)
+  Rendered pages/_footer.html.erb (Duration: 1.9ms | Allocations: 196)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms | Allocations: 10865)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:28:01 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.6ms | Allocations: 1175)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_footer.html.erb (Duration: 1.9ms | Allocations: 196)
+  Rendered pages/_navbar.html.erb (Duration: 2.7ms | Allocations: 256)
+Completed 200 OK in 65ms (Views: 63.8ms | ActiveRecord: 0.0ms | Allocations: 10861)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:29:56 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 7.0ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 27.0ms | Allocations: 1176)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.4ms | Allocations: 260)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 134ms (Views: 132.2ms | ActiveRecord: 0.0ms | Allocations: 10980)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:30:05 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.5ms | Allocations: 1180)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.4ms | Allocations: 256)
+  Rendered pages/_footer.html.erb (Duration: 1.2ms | Allocations: 196)
+Completed 200 OK in 54ms (Views: 51.7ms | ActiveRecord: 0.0ms | Allocations: 10877)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:30:10 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.9ms | Allocations: 1176)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.6ms | Allocations: 256)
+  Rendered pages/_footer.html.erb (Duration: 1.0ms | Allocations: 196)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms | Allocations: 10862)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:30:44 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 8.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 19.4ms | Allocations: 1175)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.5ms | Allocations: 256)
+  Rendered pages/_footer.html.erb (Duration: 2.7ms | Allocations: 196)
+Completed 200 OK in 98ms (Views: 94.4ms | ActiveRecord: 0.0ms | Allocations: 10858)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:32:06 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 2174ms (Views: 2173.3ms | ActiveRecord: 0.0ms | Allocations: 79328)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:41:27 +0200
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.1ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 24.8ms | Allocations: 1184)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/thibaultfitte-duval/code/melitapis/melita/public/packs
+[Webpacker] Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-property-in-object since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+to the "plugins" section of your Babel config.
+Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-private-property-in-object.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+[Webpacker] Hash: 8942df78f0866dfe4671
+Version: webpack 4.46.0
+Time: 3801ms
+Built at: 09/24/2021 2:41:43 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-c9cffcfe416f22f6ef5c.js   91.3 KiB  application  [emitted] [immutable]  application
+js/application-c9cffcfe416f22f6ef5c.js.map   99.6 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-c9cffcfe416f22f6ef5c.js js/application-c9cffcfe416f22f6ef5c.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 1.67 KiB {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered pages/_navbar.html.erb (Duration: 2.4ms | Allocations: 112)
+  Rendered pages/_footer.html.erb (Duration: 2.3ms | Allocations: 196)
+Completed 200 OK in 15867ms (Views: 15860.1ms | ActiveRecord: 0.0ms | Allocations: 84619)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:41:50 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.8ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 51ms (Views: 49.3ms | ActiveRecord: 0.0ms | Allocations: 8867)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:41:52 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 46ms (Views: 44.9ms | ActiveRecord: 0.0ms | Allocations: 8853)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:42:04 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.4ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.2ms | Allocations: 5)
+Completed 200 OK in 43ms (Views: 41.8ms | ActiveRecord: 0.0ms | Allocations: 8859)
+
+
+Started GET "/" for ::1 at 2021-09-24 14:43:11 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.0ms | Allocations: 1177)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/thibaultfitte-duval/code/melitapis/melita/public/packs
+[Webpacker] Hash: 3391eecfd5418b8b1315
+Version: webpack 4.46.0
+Time: 2555ms
+Built at: 09/24/2021 2:43:20 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-93ef844373bce9bf715a.js   91.1 KiB  application  [emitted] [immutable]  application
+js/application-93ef844373bce9bf715a.js.map   99.4 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-93ef844373bce9bf715a.js js/application-93ef844373bce9bf715a.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 1.49 KiB {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered pages/_navbar.html.erb (Duration: 1.5ms | Allocations: 111)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 8901ms (Views: 8899.5ms | ActiveRecord: 0.0ms | Allocations: 11890)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:28:25 +0200
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.0ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 16.6ms | Allocations: 1178)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.8ms | Allocations: 114)
+  Rendered pages/_footer.html.erb (Duration: 2.9ms | Allocations: 196)
+Completed 200 OK in 119ms (Views: 112.8ms | ActiveRecord: 0.0ms | Allocations: 10816)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:29:45 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.8ms | Allocations: 1181)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.1ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 96ms (Views: 94.3ms | ActiveRecord: 0.0ms | Allocations: 10736)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:31:03 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.7ms | Allocations: 1179)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.7ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 60ms (Views: 58.1ms | ActiveRecord: 0.0ms | Allocations: 10838)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:32:10 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.7ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 14.0ms | Allocations: 1179)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.4ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 1.9ms | Allocations: 196)
+Completed 200 OK in 102ms (Views: 99.6ms | ActiveRecord: 0.0ms | Allocations: 10701)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:32:47 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.0ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.8ms | Allocations: 1180)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.9ms | Allocations: 111)
+  Rendered pages/_footer.html.erb (Duration: 1.7ms | Allocations: 196)
+Completed 200 OK in 60ms (Views: 58.3ms | ActiveRecord: 0.0ms | Allocations: 10718)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:33:36 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 7.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 18.2ms | Allocations: 1177)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.7ms | Allocations: 112)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 77ms (Views: 75.4ms | ActiveRecord: 0.0ms | Allocations: 10846)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:34:38 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.6ms | Allocations: 1187)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.5ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 0.5ms | Allocations: 196)
+Completed 200 OK in 60ms (Views: 58.4ms | ActiveRecord: 0.0ms | Allocations: 10744)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:36:07 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.7ms | Allocations: 175)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.9ms | Allocations: 1184)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.9ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 1.0ms | Allocations: 196)
+Completed 200 OK in 55ms (Views: 53.7ms | ActiveRecord: 0.0ms | Allocations: 10726)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:36:38 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.0ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.5ms | Allocations: 1179)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.7ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 0.8ms | Allocations: 196)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms | Allocations: 10820)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:37:36 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.5ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 12.1ms | Allocations: 1200)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.8ms | Allocations: 111)
+  Rendered pages/_footer.html.erb (Duration: 1.9ms | Allocations: 196)
+Completed 200 OK in 106ms (Views: 103.8ms | ActiveRecord: 0.0ms | Allocations: 10737)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:38:39 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.3ms | Allocations: 1182)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.9ms | Allocations: 116)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 78ms (Views: 76.1ms | ActiveRecord: 0.0ms | Allocations: 10849)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:38:56 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.5ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.0ms | Allocations: 1183)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 0.8ms | Allocations: 196)
+Completed 200 OK in 69ms (Views: 68.0ms | ActiveRecord: 0.0ms | Allocations: 10735)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:40:17 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.6ms | Allocations: 1202)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.7ms | Allocations: 115)
+  Rendered pages/_footer.html.erb (Duration: 1.8ms | Allocations: 196)
+Completed 200 OK in 3353ms (Views: 3351.5ms | ActiveRecord: 0.0ms | Allocations: 83432)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:41:10 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.1ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 2369ms (Views: 2367.7ms | ActiveRecord: 0.0ms | Allocations: 80778)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/application.css-b071bb0b2052fc9d96afe1b8c61e5a72fdc054fcaeab9ad15093a5d89d5f081b.map"):
+  
+actionpack (6.0.4.1) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.4.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.4.1) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.4.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:11:in `block in call'
+activesupport (6.0.4.1) lib/active_support/logger_silence.rb:36:in `silence'
+activesupport (6.0.4.1) lib/active_support/logger.rb:64:in `block (3 levels) in broadcast'
+activesupport (6.0.4.1) lib/active_support/logger_silence.rb:36:in `silence'
+activesupport (6.0.4.1) lib/active_support/logger.rb:62:in `block (2 levels) in broadcast'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:11:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.4.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.4.1) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.7.0) lib/rack/proxy.rb:63:in `call'
+railties (6.0.4.1) lib/rails/engine.rb:527:in `call'
+puma (4.3.8) lib/puma/configuration.rb:228:in `call'
+puma (4.3.8) lib/puma/server.rb:718:in `handle_request'
+puma (4.3.8) lib/puma/server.rb:472:in `process_client'
+puma (4.3.8) lib/puma/server.rb:328:in `block in run'
+puma (4.3.8) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for ::1 at 2021-09-24 15:46:52 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 15.0ms | Allocations: 1223)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 111)
+  Rendered pages/_footer.html.erb (Duration: 2.2ms | Allocations: 196)
+Completed 200 OK in 148ms (Views: 145.1ms | ActiveRecord: 0.0ms | Allocations: 18898)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:47:51 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 19.1ms | Allocations: 1196)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 110)
+  Rendered pages/_footer.html.erb (Duration: 2.6ms | Allocations: 196)
+Completed 200 OK in 166ms (Views: 161.5ms | ActiveRecord: 0.0ms | Allocations: 10735)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:48:48 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 17.5ms | Allocations: 1196)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 115)
+  Rendered pages/_footer.html.erb (Duration: 15.8ms | Allocations: 196)
+Completed 200 OK in 172ms (Views: 169.2ms | ActiveRecord: 0.0ms | Allocations: 10739)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:49:01 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 39ms (Views: 36.8ms | ActiveRecord: 0.0ms | Allocations: 8859)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:49:50 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.8ms | Allocations: 1198)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 113)
+  Rendered pages/_footer.html.erb (Duration: 1.7ms | Allocations: 196)
+Completed 200 OK in 51ms (Views: 48.9ms | ActiveRecord: 0.0ms | Allocations: 10755)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:50:59 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.1ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 13.2ms | Allocations: 1199)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.3ms | Allocations: 111)
+  Rendered pages/_footer.html.erb (Duration: 1.6ms | Allocations: 196)
+Completed 200 OK in 63ms (Views: 60.4ms | ActiveRecord: 0.0ms | Allocations: 10746)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:55:11 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 24.5ms | Allocations: 1196)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 3.4ms | Allocations: 172)
+  Rendered pages/_footer.html.erb (Duration: 4.3ms | Allocations: 196)
+Completed 200 OK in 2875ms (Views: 2872.2ms | ActiveRecord: 0.0ms | Allocations: 82432)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:55:49 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.8ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 1879ms (Views: 1878.0ms | ActiveRecord: 0.0ms | Allocations: 80541)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:56:19 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.4ms | Allocations: 628)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 2409ms (Views: 2408.0ms | ActiveRecord: 0.0ms | Allocations: 79745)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:56:26 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 45ms (Views: 44.2ms | ActiveRecord: 0.0ms | Allocations: 8866)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:56:27 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.5ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 45ms (Views: 44.4ms | ActiveRecord: 0.0ms | Allocations: 8857)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:56:28 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.7ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 52ms (Views: 50.0ms | ActiveRecord: 0.0ms | Allocations: 8864)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:56:48 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.4ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 2350ms (Views: 2348.7ms | ActiveRecord: 0.0ms | Allocations: 80313)
+
+
+Started GET "/" for ::1 at 2021-09-24 15:59:02 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 22.9ms | Allocations: 1208)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.4ms | Allocations: 193)
+  Rendered pages/_footer.html.erb (Duration: 5.5ms | Allocations: 196)
+Completed 200 OK in 2800ms (Views: 2793.3ms | ActiveRecord: 0.0ms | Allocations: 82659)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:00:17 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.4ms | Allocations: 1202)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 117)
+  Rendered pages/_footer.html.erb (Duration: 0.4ms | Allocations: 196)
+Completed 200 OK in 1250ms (Views: 1248.5ms | ActiveRecord: 0.0ms | Allocations: 83038)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:01:59 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.2ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.3ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 2537ms (Views: 2535.9ms | ActiveRecord: 0.0ms | Allocations: 81583)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:02:06 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.2ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.6ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 49ms (Views: 46.8ms | ActiveRecord: 0.0ms | Allocations: 8867)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:02:07 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.4ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms | Allocations: 8852)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:02:25 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.0ms | Allocations: 8865)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:07:07 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.2ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.2ms | Allocations: 5)
+Completed 200 OK in 2686ms (Views: 2684.5ms | ActiveRecord: 0.0ms | Allocations: 81141)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:07:14 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 13.0ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 80ms (Views: 77.3ms | ActiveRecord: 0.0ms | Allocations: 8859)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:10:28 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.8ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 53ms (Views: 50.9ms | ActiveRecord: 0.0ms | Allocations: 9326)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:12:13 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.3ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 14.5ms | Allocations: 1207)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.9ms | Allocations: 113)
+  Rendered pages/_footer.html.erb (Duration: 3.8ms | Allocations: 196)
+Completed 200 OK in 87ms (Views: 85.1ms | ActiveRecord: 0.0ms | Allocations: 10751)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:12:17 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms | Allocations: 8860)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:12:45 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.7ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 65ms (Views: 64.1ms | ActiveRecord: 0.0ms | Allocations: 8857)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:13:24 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.4ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 57ms (Views: 55.5ms | ActiveRecord: 0.0ms | Allocations: 8861)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:13:28 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.5ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.0ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 41ms (Views: 40.6ms | ActiveRecord: 0.0ms | Allocations: 8847)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:13:48 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.9ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.5ms | Allocations: 5)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 61ms (Views: 60.6ms | ActiveRecord: 0.0ms | Allocations: 8861)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:15:16 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 14.6ms | Allocations: 1198)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.2ms | Allocations: 299)
+  Rendered pages/_footer.html.erb (Duration: 2.6ms | Allocations: 196)
+Completed 200 OK in 91ms (Views: 88.3ms | ActiveRecord: 0.0ms | Allocations: 10926)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:16:42 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.2ms | Allocations: 1203)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 196)
+  Rendered pages/_footer.html.erb (Duration: 0.8ms | Allocations: 196)
+Completed 200 OK in 49ms (Views: 47.3ms | ActiveRecord: 0.0ms | Allocations: 10825)
+
+
+Started GET "/projets" for ::1 at 2021-09-24 16:16:44 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 26.1ms | Allocations: 2529)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 50)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 69ms (Views: 66.7ms | ActiveRecord: 0.0ms | Allocations: 11158)
+
+
+Started GET "/projets" for ::1 at 2021-09-24 16:16:56 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 13.0ms | Allocations: 2281)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 44)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 44ms (Views: 42.8ms | ActiveRecord: 0.0ms | Allocations: 10565)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:17:08 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 15.1ms | Allocations: 1199)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.8ms | Allocations: 176)
+  Rendered pages/_footer.html.erb (Duration: 2.1ms | Allocations: 196)
+Completed 200 OK in 71ms (Views: 68.8ms | ActiveRecord: 0.0ms | Allocations: 10813)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:17:27 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.7ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 48)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms | Allocations: 8914)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:17:31 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.0ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 43)
+  Rendered pages/_footer.html.erb (Duration: 0.2ms | Allocations: 5)
+Completed 200 OK in 54ms (Views: 53.7ms | ActiveRecord: 0.0ms | Allocations: 8897)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:17:52 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.3ms | Allocations: 1198)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.6ms | Allocations: 193)
+  Rendered pages/_footer.html.erb (Duration: 1.8ms | Allocations: 196)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms | Allocations: 10814)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:18:30 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.2ms | Allocations: 1205)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.7ms | Allocations: 235)
+  Rendered pages/_footer.html.erb (Duration: 0.8ms | Allocations: 196)
+Completed 200 OK in 51ms (Views: 47.3ms | ActiveRecord: 0.0ms | Allocations: 10881)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:21:42 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 26.5ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 3913ms (Views: 3906.3ms | ActiveRecord: 0.0ms | Allocations: 81676)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:22:03 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.3ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 2399ms (Views: 2398.1ms | ActiveRecord: 0.0ms | Allocations: 80443)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:23:14 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.4ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 2854ms (Views: 2853.8ms | ActiveRecord: 0.0ms | Allocations: 79612)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:24:07 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.6ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 2713ms (Views: 2712.6ms | ActiveRecord: 0.0ms | Allocations: 80423)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:24:28 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 14.6ms | Allocations: 1205)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.8ms | Allocations: 251)
+  Rendered pages/_footer.html.erb (Duration: 1.7ms | Allocations: 196)
+Completed 200 OK in 73ms (Views: 69.2ms | ActiveRecord: 0.0ms | Allocations: 10906)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:24:45 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 2.0ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 8.5ms | Allocations: 1196)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.7ms | Allocations: 259)
+  Rendered pages/_footer.html.erb (Duration: 1.1ms | Allocations: 196)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms | Allocations: 10888)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:25:04 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.3ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 67ms (Views: 65.3ms | ActiveRecord: 0.0ms | Allocations: 8928)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:25:12 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 6.9ms | Allocations: 1202)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 4.9ms | Allocations: 249)
+  Rendered pages/_footer.html.erb (Duration: 3.4ms | Allocations: 196)
+Completed 200 OK in 65ms (Views: 62.3ms | ActiveRecord: 0.0ms | Allocations: 10878)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:26:01 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.9ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 13.3ms | Allocations: 1196)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.5ms | Allocations: 255)
+  Rendered pages/_footer.html.erb (Duration: 1.6ms | Allocations: 196)
+Completed 200 OK in 3100ms (Views: 3098.4ms | ActiveRecord: 0.0ms | Allocations: 82418)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:27:01 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 11.1ms | Allocations: 1199)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.8ms | Allocations: 247)
+  Rendered pages/_footer.html.erb (Duration: 1.7ms | Allocations: 196)
+Completed 200 OK in 77ms (Views: 74.9ms | ActiveRecord: 0.0ms | Allocations: 11101)
+
+
+Started GET "/" for ::1 at 2021-09-24 16:27:07 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 42ms (Views: 40.4ms | ActiveRecord: 0.0ms | Allocations: 8923)
+
+
+Started GET "/projets" for ::1 at 2021-09-24 16:27:23 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 16.6ms | Allocations: 2522)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.1ms | Allocations: 70)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 66ms (Views: 63.6ms | ActiveRecord: 0.0ms | Allocations: 11207)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:03:16 +0200
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 52.1ms | Allocations: 2284)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.8ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 149ms (Views: 130.9ms | ActiveRecord: 0.0ms | Allocations: 10585)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:03:16 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 22.8ms | Allocations: 2281)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.4ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 104ms (Views: 102.7ms | ActiveRecord: 0.0ms | Allocations: 10590)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:03:21 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.8ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms | Allocations: 8937)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:04:09 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms | Allocations: 8915)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:04:50 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 14.5ms | Allocations: 2289)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms | Allocations: 10598)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:05:02 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 14.3ms | Allocations: 2281)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 39ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 10594)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:05:08 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.1ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 54ms (Views: 53.0ms | ActiveRecord: 0.0ms | Allocations: 8918)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:05:12 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 10.1ms | Allocations: 2289)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 50ms (Views: 47.6ms | ActiveRecord: 0.0ms | Allocations: 10592)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:05:15 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 623)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms | Allocations: 8911)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:07:00 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.8ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 20.8ms | Allocations: 1202)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 3.8ms | Allocations: 260)
+  Rendered pages/_footer.html.erb (Duration: 2.5ms | Allocations: 196)
+Completed 200 OK in 2879ms (Views: 2876.8ms | ActiveRecord: 0.0ms | Allocations: 83214)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:07:18 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 16.0ms | Allocations: 2521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 70)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 62ms (Views: 59.5ms | ActiveRecord: 0.0ms | Allocations: 11208)
+
+
+Started GET "/" for ::1 at 2021-09-26 09:07:23 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.7ms | Allocations: 627)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 52ms (Views: 49.4ms | ActiveRecord: 0.0ms | Allocations: 8935)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:08:14 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 11.7ms | Allocations: 2289)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.4ms | Allocations: 65)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms | Allocations: 10591)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:09:13 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 15.9ms | Allocations: 2517)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 1.9ms | Allocations: 257)
+  Rendered pages/_footer.html.erb (Duration: 1.9ms | Allocations: 196)
+Completed 200 OK in 64ms (Views: 62.5ms | ActiveRecord: 0.0ms | Allocations: 12244)
+
+
+Started GET "/projets" for ::1 at 2021-09-26 09:09:51 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 11.7ms | Allocations: 2281)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 70)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 1797ms (Views: 1796.6ms | ActiveRecord: 0.0ms | Allocations: 82946)
+
+
