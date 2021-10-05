@@ -100,8 +100,9 @@ textarea {
 .submit-btn {
     float: right;
     border: none;
+
     padding: 7px 35px;
-    border-radius: 60px;
+    border-radius: 20px;
     display: inline-block;
     background-color: #FC6D6D;
     color: white;
@@ -149,4 +150,7 @@ and (max-device-width : 667px) {
     width: 350px;
     max-width: 100%;
 }
+    .submit-btn{
+    margin-left: 50px;
+    }
 }

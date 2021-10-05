@@ -15691,3 +15691,120 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 2529ms (Views: 2528.0ms | ActiveRecord: 0.0ms | Allocations: 83290)
 
 
+Started GET "/" for ::1 at 2021-10-05 11:35:52 +0200
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.6ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 34.7ms | Allocations: 1211)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.7ms | Allocations: 257)
+  Rendered pages/_footer.html.erb (Duration: 1.0ms | Allocations: 197)
+Completed 200 OK in 128ms (Views: 112.9ms | ActiveRecord: 0.0ms | Allocations: 11115)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:38:31 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.9ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.7ms | Allocations: 69)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 2448ms (Views: 2447.5ms | ActiveRecord: 0.0ms | Allocations: 81271)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:39:37 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 13.1ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.2ms | Allocations: 5)
+Completed 200 OK in 70ms (Views: 68.7ms | ActiveRecord: 0.0ms | Allocations: 8916)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:44:40 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.7ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 2856ms (Views: 2855.2ms | ActiveRecord: 0.0ms | Allocations: 81715)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:44:54 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.3ms | Allocations: 625)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 1521ms (Views: 1520.6ms | ActiveRecord: 0.0ms | Allocations: 81298)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:45:31 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.1ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 4.0ms | Allocations: 627)
+Completed 500 Internal Server Error in 280ms (ActiveRecord: 0.0ms | Allocations: 26021)
+
+
+  
+ActionView::Template::Error (Error: Invalid CSS after "}": expected "}", was ".submit-btn"
+        on line 152:2 of app/assets/stylesheets/components/_contact.scss
+        from line 9:1 of app/assets/stylesheets/components/_index.scss
+        from line 12:1 of app/assets/stylesheets/application.scss
+>> }
+
+   -^
+):
+    25:     <%= csrf_meta_tags %>
+    26:     <%= csp_meta_tag %>
+    27: 
+    28:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    29:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    30: 
+    31:   </head>
+  
+app/assets/stylesheets/components/_contact.scss:152
+app/views/layouts/application.html.erb:28
+Started GET "/" for ::1 at 2021-10-05 11:45:49 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.0ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 3.0ms | Allocations: 647)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.3ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.1ms | Allocations: 5)
+Completed 200 OK in 1106ms (Views: 1104.8ms | ActiveRecord: 0.0ms | Allocations: 81365)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:46:35 +0200
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 0.3ms | Allocations: 6)
+  Rendered pages/home.html.erb within layouts/application (Duration: 5.4ms | Allocations: 626)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.1ms | Allocations: 64)
+  Rendered pages/_footer.html.erb (Duration: 0.2ms | Allocations: 5)
+Completed 200 OK in 1873ms (Views: 1872.3ms | ActiveRecord: 0.0ms | Allocations: 81705)
+
+
+Started GET "/" for ::1 at 2021-10-05 11:55:37 +0200
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 3.2ms | Allocations: 174)
+  Rendered pages/home.html.erb within layouts/application (Duration: 42.6ms | Allocations: 1216)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.0ms | Allocations: 259)
+  Rendered pages/_footer.html.erb (Duration: 2.7ms | Allocations: 196)
+Completed 200 OK in 2288ms (Views: 2281.5ms | ActiveRecord: 0.0ms | Allocations: 82071)
+
+
