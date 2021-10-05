@@ -87,3 +87,80 @@ background-color: white;
   left: 0;
   z-index: 0;
 }
+
+
+/////* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+  .wrapper {
+    width: 50%;
+
+  }
+}
+
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .wrapper {
+    width: 100%;
+  }
+.card-text-about #neon-button-text{
+     // border: 1px solid green;
+    padding: 10px;
+    // margin-top: 25%;
+    // margin: 40px
+   }
+
+}
+
+
+//// media query
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
+
+
+.card-text-about{
+  margin-top: 5px;
+  h2 {
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  h4 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+  }
+width: 350px;
+    // height: 500px;
+    margin: 0px auto;
+    background-color: white;
+    box-shadow: 0px 5px 20px #999;
+
+  .me-img{
+    height: 200px;
+    width: 100%;
+    // margin-top: 12px;
+    // margin-left: 12px;
+  }
+
+  .card-text-about:hover .me-img{
+    width: 150%;
+    position:absolute;
+  }
+
+  #neon-button-propos{
+    //  border: 1px solid #FC6D6D;
+    padding: 10px;
+    margin-top: 25%;
+    // margin: 40px
+
+  }
+}
+}
+
+.card-body{
+  // width: 300px;
+  // border: 1px solid blue;
+}
