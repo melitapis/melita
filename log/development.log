@@ -15820,3 +15820,25 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 188ms (Views: 157.1ms | ActiveRecord: 0.0ms | Allocations: 10906)
 
 
+Started GET "/" for ::1 at 2021-10-14 17:13:18 +0200
+  [1m[35m (4.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/_contact.html.erb (Duration: 1.9ms | Allocations: 179)
+  Rendered pages/home.html.erb within layouts/application (Duration: 423.8ms | Allocations: 32043)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 2.6ms | Allocations: 282)
+  Rendered pages/_footer.html.erb (Duration: 1.8ms | Allocations: 199)
+Completed 200 OK in 485ms (Views: 480.0ms | ActiveRecord: 0.0ms | Allocations: 42721)
+
+
+Started GET "/projets" for ::1 at 2021-10-14 17:13:21 +0200
+Processing by ProjetsController#index as HTML
+  Rendering projets/index.html.erb within layouts/application
+  Rendered projets/index.html.erb within layouts/application (Duration: 10.7ms | Allocations: 2724)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered pages/_navbar.html.erb (Duration: 0.2ms | Allocations: 71)
+  Rendered pages/_footer.html.erb (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms | Allocations: 11423)
+
+
